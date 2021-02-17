@@ -1,0 +1,68 @@
+body{
+    text-align: center;
+    background-color: #fffff2;
+   
+  }
+  
+  header{
+    background-color: #e4572e;
+  }
+  
+  h1{
+    color: black;
+    font-family: 'Chelsea Market', cursive;
+    font-size: big;
+  }
+  
+  #head2{
+    color:white;
+  }
+  h2{
+    color: black;
+    font-family: 'Gamja Flower', cursive;
+    font-size: small;  
+  }
+  
+  #upper{
+    text-align:left;
+    border: 4px solid #050401;
+    box-shadow: 3px 3px 0 0 #e4572e;
+    font-size: medium;
+    font-family: 'Gamja Flower', cursive;
+    margin-left:25%;
+    margin-right:25%;
+    margin-bottom:2%;
+  }
+  
+  #spatula{
+    display:flex;
+    float: right;
+    height: 55px;  
+  }
+  
+  #lower{
+    text-align:left;
+    border: 4px solid #050401;
+    box-shadow: 3px 3px 0 0 #e4572e;
+    font-size: medium;
+    font-family: 'Gamja Flower', cursive;
+    margin-left:25%;
+    margin-right:25%;
+    margin-bottom:2%;
+  }
+  
+  #cookie{
+    display:flex;
+    float: right;
+    height: 140px;  
+  }
+  
+  #footer,p{
+    font-family: 'Gamja Flower', cursive;
+    
+    
+  }
+  #footer,input {
+      box-shadow: 3px 3px 0 0 #e4572e;
+      font-family: 'Gamja Flower', cursive;
+      display: inline;
